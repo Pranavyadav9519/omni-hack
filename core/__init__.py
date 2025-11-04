@@ -1,0 +1,3 @@
+# Core package initialization
+__version__ = "3.0"
+__author__ = "Pranav Yadav"
